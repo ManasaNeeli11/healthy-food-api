@@ -1,0 +1,32 @@
+{
+  "breakfast": [
+    "Oats with fruits",
+    "Boiled eggs",
+    "Sprouts salad",
+    "Ragi malt"
+  ],
+  "lunch": [
+    "Brown rice with dal",
+    "Grilled chicken",
+    "Mixed vegetable curry",
+    "Quinoa bowl"
+  ],
+  "snacks": [
+    "Fruit bowl",
+    "Nuts & seeds",
+    "Peanut butter toast",
+    "Chikki"
+  ],
+  "dinner": [
+    "Vegetable soup",
+    "Chapati with paneer",
+    "Grilled fish",
+    "Moong dal khichdi"
+  ],
+  "dinnerday2":[
+    "Vegetable soupee",
+    "Chapati with paneereeee",
+    "Grilled fisheee",
+    "Moong dal khichdieee"
+  ]
+}
